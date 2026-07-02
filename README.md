@@ -2,7 +2,7 @@
 
 Generic branch-and-reduce framework, with the branching rule chosen by
 solving a weighted set-cover problem. Rust port of the Julia
-[`OptimalBranchingCore.jl`](https://github.com/OptimalBranching/OptimalBranching.jl).
+[`OptimalBranching.jl`](https://github.com/OptimalBranching/OptimalBranching.jl).
 
 Paper: *Automated discovery of optimal branching rules for the
 branch-and-bound algorithm*, arXiv [2412.07685](https://arxiv.org/abs/2412.07685).

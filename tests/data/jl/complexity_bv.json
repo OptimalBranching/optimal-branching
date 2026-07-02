@@ -1,0 +1,8 @@
+[
+{"name":"single element","gamma":1.0,"branching_vector":[1.0]},
+{"name":"two equal","gamma":1.414213562373095,"branching_vector":[2.0,2.0]},
+{"name":"golden ratio case","gamma":1.6180339887498947,"branching_vector":[1.0,2.0]},
+{"name":"three elements","gamma":1.839286755214161,"branching_vector":[1.0,2.0,3.0]},
+{"name":"large reductions","gamma":1.1010258818099912,"branching_vector":[5.0,10.0]},
+{"name":"two equal unit","gamma":1.9999999999999998,"branching_vector":[1.0,1.0]}
+]

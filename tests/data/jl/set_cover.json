@@ -1,0 +1,6 @@
+[
+{"name":"simple 3-item 3-subset","selected":[1,0],"expected_total_weight":2.0,"weights":[1.0,1.0,1.5],"num_items":3,"subsets":[[0,1],[1,2],[0,2]]},
+{"name":"one covers all","selected":[2],"expected_total_weight":3.0,"weights":[2.0,2.0,3.0],"num_items":3,"subsets":[[0],[1],[0,1,2]]},
+{"name":"must pick two","selected":[1,0],"expected_total_weight":2.0,"weights":[1.0,1.0,1.0],"num_items":4,"subsets":[[0,1],[2,3],[1,2]]},
+{"name":"larger case 5 items","selected":[3,1,2],"expected_total_weight":4.0,"weights":[2.0,2.0,1.0,1.0],"num_items":5,"subsets":[[0,1,2],[2,3,4],[0,3],[1,4]]}
+]
